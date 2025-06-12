@@ -180,7 +180,7 @@ geoConfig: {
     // Button styling
     buttonStyle: {
         borderRadius: '8px',
-        padding: '12px 20px',
+        padding: '0px 20px',
         fontWeight: '600',
         fontSize: '14px',
         transition: 'all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1)',
@@ -233,7 +233,7 @@ geoConfig: {
     // Floating button styling
     floatingButtonStyle: {
         size: '50px',
-        background: '#FFD0D0',
+        background: '#BFCDC5',
         iconColor: '#000000',
         border: '2px solid #ffffff',
         borderRadius: '50%',
